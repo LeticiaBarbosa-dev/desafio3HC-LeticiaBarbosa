@@ -1,0 +1,22 @@
+/*Estilizando tab-layout*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.listContainer{
+    width: 100%;
+    background-color: #212121;
+    padding: 0;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: start;
+}
+.listItem :global(.vtex-button) {
+    font-size: 13px;
+    border: none;
+    font-family: 'Montserrat', sans-serif
+}
+
+.listItemActive :global(.vtex-button) {
+    background-color: #212121;
+    border-bottom: 2px solid #14ff00;
+    color: #14ff00;
+    font-family: 'Montserrat', sans-serif;
+}

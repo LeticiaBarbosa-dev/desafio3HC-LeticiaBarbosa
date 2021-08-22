@@ -1,0 +1,18 @@
+{
+  "app-whatsapp": {
+      "component": "appWhatsapp"
+  },
+  "app-home": {
+    "component": "appHome"
+  },
+  "app-login": {
+    "component": "appLogin"
+  },
+  "app-formulario": {
+    "component": "appFormulario"
+  }
+}
+
+
+
+

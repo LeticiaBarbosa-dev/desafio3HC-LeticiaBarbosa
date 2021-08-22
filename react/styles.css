@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 75vh;
+    font-family: 'Montserrat', sans-serif;
+}
+.Formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    width: 700px;
+    height: 600px;
+    max-width: 600px;
+    
+}
+.inputForms {
+    width: 500px;
+    height: 50px;
+    margin-bottom: 3%;
+    padding-left: 8px;
+    border: none;
+    border-radius: 7px;
+    background-color: #4B4B4B;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.inputForms:focus {
+    border: 2px solid #59FF00;
+    z-index: 9;
+    outline: none;
+    color: #fff;
+}
+.inputButton {
+    width: 200px;
+    height: 45px;
+    margin-bottom: 3%;
+    border: 2px solid #fff;
+    border-radius: 7px;
+    background-color: #14ff00;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.inputButton:hover{
+    background-color: #fff;
+    border: 2px solid #000;
+    color: #212121;
+    cursor: pointer;
+}
+.HeadingTitulo {
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+}
+.Mensagem {
+    color: #fff;
+}
+@media (max-width: 480px) {
+    .Container {
+        height: 55vh;
+    }
+    .HeadingTitulo {
+        font-size: 1rem;
+    }
+    .Formulario {
+        width: 250px;
+    }
+    .inputForms,
+    .inputButton {
+        width: 200px;
+    }
+}

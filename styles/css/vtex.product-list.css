@@ -1,0 +1,16 @@
+/*Estilizando componenyes da lista de produtos*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.deleteIcon{
+    color: #ffffff;
+}
+.productName{
+    color: #14ff00;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+.unitPrice{
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,15 @@
+.flexRowContent--cart{
+    background-color: #545454;
+    border: 1px solid #14ff00;
+    border-radius: 5px;
+    padding: 10px 10px 5px 10px;
+    margin-bottom: 10px;
+}
+.flexCol--productDetails{
+    display: flex;
+    flex-direction: column;
+}
+.flexCol--productImages{
+    padding: 20px;
+    box-sizing: border-box;
+}

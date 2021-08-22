@@ -1,0 +1,38 @@
+/*Customizando imagens do slider-layout*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.imageElement{
+    border-radius: 20px;
+    margin-bottom: 40px;
+    width: 912px;
+    height: 320;
+}
+.container{
+    padding: 0;
+    
+}
+.searchBarContainer :global(.vtex-input-prefix__group){
+    width: 520px;
+    border: none;
+    border-bottom: .5px solid #ffffff;
+}
+.searchIcon{
+    color: #14ff00;
+}
+.productBrand, .sellingPrice{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+.buyButtonText{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.productImageTag{
+    padding: 5px;
+}
+.swiperCaret{
+    color: #14ff00;
+}
+.swiperBullet--active{
+    color: #14ff00;
+}

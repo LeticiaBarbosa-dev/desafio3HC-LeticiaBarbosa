@@ -1,0 +1,14 @@
+{
+    // Página personalizada que chama um componente criado de formulario de contato
+    "store.custom#formulario": {
+      "blocks": ["flex-layout.row#formulario"]
+    },
+    "flex-layout.row#formulario": {
+        "children": [
+            "app-formulario"
+        ],
+        "props": {
+            "blockClass": "ContainerFormulario"
+        }
+    }
+}

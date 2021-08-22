@@ -1,0 +1,30 @@
+.caretIcon{
+    color: #ffffff;
+}
+.sliderArrows{
+    height: 24px;
+    width: 24px;
+}
+
+.sliderArrows--banner{
+    bottom: 0;
+    margin: 0 200px 0 200px;
+}
+.paginationDotsContainer{
+    visibility: hidden;
+}
+.paginationDotsContainer--banner{
+    visibility: visible;
+}
+.paginationDot--banner{
+    background-color: #6e6e6e;
+}
+
+.paginationDot--banner--isActive{
+    background-color: #14ff00;
+}
+.slideChildrenContainer--products{
+    margin-top: 30px;
+}
+
+

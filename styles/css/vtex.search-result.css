@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.searchResultContainer {
+    padding: 0 20% !important;
+    background-color: #303030;
+    min-height: 100vh;
+    padding-bottom: 50px !important;
+}
+.orderByButton, .filterPopupTitle, .orderByText {
+    background-color: #212121;
+    color: #fff;
+}
+.orderByOptionItem {
+    background-color: #212121;
+    color: #fff;
+}
+.galleryTitle--layout {
+    color: #fff;
+}
+.galleryItem {
+    margin:0 5% 5% 5%;
+    background-color: #212121;
+    border-radius: 5px;
+    padding: 0;
+}
+.gallery {
+    justify-content: space-between;
+    padding-top: 1%;
+}
+.searchNotFoundInfo, .searchNotFoundWhatToDoDotsContainer, .searchNotFoundWhatDoIDo{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+.searchNotFoundOops{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.productBrand{
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif
+}
+.sellingPrice, .installmentContainer{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+.element--products{
+    background-color: #424242;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+.brandName{
+    color: #ffffff;
+}
+.nameContainer{
+    text-align: center;
+}

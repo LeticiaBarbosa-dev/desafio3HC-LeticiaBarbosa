@@ -1,0 +1,21 @@
+/*Estilizando página de pagamento*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.summaryTitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+.summaryItemLabel{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+
+}
+.price{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+.summarySmallDisclaimer{
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
