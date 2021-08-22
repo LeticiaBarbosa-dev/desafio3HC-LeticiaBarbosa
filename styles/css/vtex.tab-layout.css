@@ -9,7 +9,7 @@
     justify-content: start;
 }
 .listItem :global(.vtex-button) {
-    font-size: 13px;
+    font-size: 15px;
     border: none;
     font-family: 'Montserrat', sans-serif
 }

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.quantitySelectorContainer{
+    margin-bottom: 20px;
+}
+.quantitySelectorTitle{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}

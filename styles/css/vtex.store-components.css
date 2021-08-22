@@ -35,3 +35,10 @@
 .swiperBullet--active{
     color: #14ff00;
 }
+
+.shareLabel{
+    margin-top: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}

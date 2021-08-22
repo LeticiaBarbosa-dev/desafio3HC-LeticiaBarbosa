@@ -28,9 +28,7 @@
       "product-separator",
       "product-quantity",
       "sku-selector",
-      "buy-button",
-      "shipping-simulator",
-      "share"
+      "buy-button"
     ]
   },
   "product-price": {

@@ -7,17 +7,20 @@
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
 }
-.element--products{
+.element{
     background-color: #424242;
     padding-left: 10px;
     padding-right: 10px;
-    width: 100px;
-    text-align: center;
 }
 
 .brandName{
     color: #ffffff;
 }
 .nameContainer{
-    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.priceContainer{
+    display: flex;
+    justify-content: center;
 }
