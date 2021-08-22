@@ -25,9 +25,9 @@ Este projeto tem o objetivo simular um ecommerce simples contendo um carrossel p
 
 <hr>
 
-- Produto:
+- Página de Produto:
 
-<img src="imagens/pag-prod.jpg" alt="Imagem da página de produtos">
+<img src="assets/PaginaDeProduto.PNG" alt="Imagem da página de produto">
 
 <hr>
 
@@ -37,23 +37,21 @@ Este projeto tem o objetivo simular um ecommerce simples contendo um carrossel p
 
 <hr>
 
-### Funcionalidades
-
 - Header do site onde é possivel utilizar da barra de busca, minicart e da categorização dos produtos:
 
-<img src="imagens/Header.png" alt="Imagem do Header do site">
+<img src="assets/Header.PNG" alt="Imagem do Header do site">
 
 <hr>
 
 - Footer do site onde é possivel utilizar para navegar para a página do formulario, página Home e abrir o suporte pelo Whatsapp:
 
-<img src="imagens/Footer.png" alt="Imagem do Footer do site">
+<img src="assets/Footer.PNG" alt="Imagem do Footer do site">
 
 <hr>
 
 - Minicart do site, onde é possivel visualizar os produtos que foram selecionados para compra, seguido pelo botão que leva ao checkout:
 
-<img src="imagens/minicart.png" alt="Imagem do Minicart do site">
+<img src="assets/Minicart.PNG" alt="Imagem do Minicart do site">
 
 <hr>
 
