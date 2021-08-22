@@ -8,7 +8,6 @@
 }
 .container{
     padding: 0;
-    
 }
 .searchBarContainer :global(.vtex-input-prefix__group){
     width: 520px;
